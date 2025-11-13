@@ -1,0 +1,13 @@
+{
+  "name": "monitoring-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "prom-client": "^15.1.3"
+  }
+}
